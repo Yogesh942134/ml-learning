@@ -4,7 +4,6 @@ This repository contains hands-on notebooks covering Python programming, data an
 
 The notebooks are organized to help learners understand both theoretical concepts and practical implementation using Python libraries such as NumPy, Pandas, Matplotlib, Seaborn, and Scikit-learn.
 
----
 
 # Repository Structure
 
@@ -23,7 +22,7 @@ The notebooks are organized to help learners understand both theoretical concept
 | `Data Assessing and Cleaning.ipynb` | Data cleaning and preprocessing techniques                             |
 | `Revision.ipynb`                    | Revision notebook for previously learned concepts                      |
 
----
+
 
 ## Data Visualization
 
@@ -32,7 +31,6 @@ The notebooks are organized to help learners understand both theoretical concept
 | `Matplotlib.ipynb` | Data visualization using Matplotlib          |
 | `Seaborn.ipynb`    | Statistical data visualization using Seaborn |
 
----
 
 ## Data Preprocessing and Feature Engineering
 
@@ -55,7 +53,7 @@ The notebooks are organized to help learners understand both theoretical concept
 | `ml-pipeline.ipynb`                        | Machine learning pipelines                           |
 | `titanic-without-using-pipeline.ipynb`     | Titanic project without pipeline implementation      |
 
----
+
 
 ## Outlier Detection
 
@@ -65,7 +63,6 @@ The notebooks are organized to help learners understand both theoretical concept
 | `Outliers-Detection-IQR.ipynb`        | Outlier detection using IQR        |
 | `outliers-detection-percentile.ipynb` | Percentile-based outlier detection |
 
----
 
 ## Machine Learning Algorithms
 
@@ -107,7 +104,6 @@ The notebooks are organized to help learners understand both theoretical concept
 | `K-Means_Clustering.ipynb` | K-Means clustering algorithm |
 | `PCA.ipynb`                | Principal Component Analysis |
 
----
 
 ## Database and Web Scraping
 
@@ -116,7 +112,7 @@ The notebooks are organized to help learners understand both theoretical concept
 | `MySql-conn.ipynb`         | MySQL database connectivity using Python |
 | `Api - Web Scraping.ipynb` | API handling and web scraping            |
 
----
+
 
 ## Projects
 
@@ -125,7 +121,7 @@ The notebooks are organized to help learners understand both theoretical concept
 | `IplAuction.ipynb`             | IPL Auction data analysis project   |
 | `end_to _end_ml_project.ipynb` | End-to-end machine learning project |
 
----
+
 
 # Technologies Used
 
@@ -138,7 +134,7 @@ The notebooks are organized to help learners understand both theoretical concept
 * Jupyter Notebook
 * MySQL
 
----
+
 
 # Learning Topics Covered
 
@@ -168,7 +164,3 @@ This repository is created for:
 * Learning data visualization
 * Building end-to-end machine learning workflows
 * Improving practical Python skills for data science
-
-
-
-GitHub Repository: `K-Means_Clustering`
